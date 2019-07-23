@@ -1,0 +1,3 @@
+# scs-ansible
+
+Ansible container
